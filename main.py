@@ -6,5 +6,9 @@ def main():
     print("Максимальный элемент:", max(data))
 
 
+def helper():
+    return "helper from feature branch"
+
+
 if __name__ == "__main__":
     main()
