@@ -10,5 +10,9 @@ def helper():
     return "helper from feature branch"
 
 
+def second_helper():
+    return "second helper added on feature branch"
+
+
 if __name__ == "__main__":
     main()
